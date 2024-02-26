@@ -20,3 +20,5 @@ Film tablosunda bulunan tüm sütunlardaki verileri rental_rate 0.99, 2.99, 4.99
 SELECT * FROM film
 WHERE rental_rate IN(0.99, 2.99, 4.99) AND replacement_cost IN(12.99, 15.99, 29.99)
 ```
+
+### Kodlarin SQL veri tabanı üzerinde yazılmış şekline **BETWEEN, IN** klasörü içerisindeki fotograflardan göz ata bilirsiniz.
