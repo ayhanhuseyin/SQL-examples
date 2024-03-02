@@ -16,3 +16,7 @@ Veri Sorgulama: SQL sorguları kullanarak veritabanındaki verileri sorgulayabil
 Veri Tabanı Yönetimi: SQL, veritabanı yönetim işlevleri için kullanılır. Bu işlevler arasında kullanıcıların yönetimi, izinlerin ataması, veri yedeklemesi ve geri yükleme gibi işlemler bulunur.
 
 SQL, birçok farklı veritabanı yönetim sistemi tarafından desteklenir, bunların arasında popüler olanlar MySQL, PostgreSQL, Microsoft SQL Server, Oracle ve SQLite bulunmaktadır. Bu veritabanı sistemleri, SQL dilini standart veya hafifçe değiştirilmiş bir şekilde desteklerler. Bu nedenle, bir kez SQL öğrendiğinizde, farklı veritabanı sistemlerinde de aynı temel becerileri kullanabilirsiniz.
+
+
+## Kurulumu
+Çalışmalarım boyunca ben PostgreSQL kullanacağım. PostgreSQL, güçlü bir açık kaynaklı RDBMS'dir(RDBMS, "Relational Database Management System"ın kısaltmasıdır. Türkçe karşılığı "İlişkisel Veritabanı Yönetim Sistemi"dir). [Buraya](https://www.postgresql.org/) tıklayarak indirme sayfasına gidebilir ve uygulamayı indire bilirsiniz.
