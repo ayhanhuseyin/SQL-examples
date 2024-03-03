@@ -27,3 +27,5 @@ Film tablosunda bulunan tüm sütunlardaki verilerden title 'C' karakteri ile ba
 SELECT * FROM film
 WHERE title LIKE 'C%' AND length>90 AND rental_rate = 2.99;
 ```
+
+#### Kodlarin SQL veri tabanı üzerinde yazılmış şekline **LIKE, ILIKE** klasörü içerisindeki fotograflardan göz ata bilirsiniz.
