@@ -11,5 +11,5 @@ WHERE country LIKE 'A%a';
 Country tablosunda bulunan country sütunundaki ülke isimlerinden en az 6 karakterden oluşan ve sonu 'n' karakteri ile sonlananları sıralayınız.
 ```Sql
 SELECT * FROM country
-WHERE country LIKE '____n';
+WHERE country LIKE '_____n';
 ```
