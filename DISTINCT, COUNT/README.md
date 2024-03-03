@@ -11,3 +11,16 @@ Film tablosunda bulunan replacement_cost sütununda birbirinden farklı kaç tan
 ```Sql
 SELECT COUNT (DISTINCT replacement_cost) FROM film;
 ```
+
+## TASK 3
+Film tablosunda bulunan film isimlerinde (title) kaç tanesini T karakteri ile başlar ve aynı zamanda rating 'G' ye eşittir?
+```Sql
+SELECT COUNT (DISTINCT title LIKE 'T%' AND rating = 'G') FROM film;
+```
+
+## TASK 4
+City tablosundaki şehir isimlerinin kaç tanesi 'R' veya r karakteri ile biter?
+```Sql
+SELECT COUNT (*) FROM city
+WHERE city LIKE 'R%r';
+```
