@@ -24,3 +24,5 @@ City tablosundaki şehir isimlerinin kaç tanesi 'R' veya r karakteri ile biter?
 SELECT COUNT (*) FROM city
 WHERE city LIKE 'R%r';
 ```
+
+#### Kodlarin SQL veri tabanı üzerinde yazılmış şekline **DISTINCT, COUNT** klasörü içerisindeki fotograflardan göz ata bilirsiniz.
