@@ -1,4 +1,4 @@
-### Merhabalar, **dvdrental** örnek veri tabanını kullanarak **Aggragate fonksiyonlari** ile ilgili 4 adet örnek çalışma yapacağız. 
+### Merhabalar, **dvdrental** örnek veri tabanını kullanarak **Aggragate Fonksiyonlari** ile ilgili 4 adet örnek çalışma yapacağız. 
 **Dvdrental** örnek verı tabanını **SQL-examples** dosyaları arasına ekledim, oradan elde ede bilirsiniz. Ve ya [Buradan](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) Internet aracılığıyla kendiniz indire bilirsiniz.
 ## TASK 1 
 Film tablosunda bulunan rental_rate sütunundaki değerlerin ortalaması nedir?
