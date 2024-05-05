@@ -70,4 +70,21 @@ insert into employee (name, email, birthday) values ('Roxanna', 'radamovsky1d@wi
 
 ## TASK 3
 Sütunların her birine göre diğer sütunları güncelleyecek 3 adet UPDATE işlemi yapalım.
+```Sql
+UPDATE employee
+SET name = 'Jonh'
+WHERE id = 5
+```
+
+```Sql
+ UPDATE employee
+ SET name = 'Billie'
+ WHERE id = 47
+```
+
+```Sql
+UPDATE employee
+SET name = 'Carter'
+WHERE id>40
+```
 
