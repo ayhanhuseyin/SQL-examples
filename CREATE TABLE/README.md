@@ -14,7 +14,7 @@ CREATE TABLE employee (
 ```
 
 ## TASK 2
-Oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim. Mockaroo sitesi kullanarak verileri hızlı bir şekilde random olusturabilirsiniz.
+Oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim.
 ```Sql
 insert into employee (name, email, birthday) values ('Merla', 'mgaitley0@sina.com.cn', '1990-07-25');
 insert into employee (name, email, birthday) values ('Helaina', 'hhathaway1@ovh.net', '1996-03-31');
