@@ -88,3 +88,20 @@ SET name = 'Carter'
 WHERE id>40
 ```
 
+
+## TASK 4
+Sütunların her birine göre ilgili satırı silecek 5 adet DELETE işlemi yapalım.
+```Sql
+DELETE FROM employee
+WHERE name = 'Ric'
+```
+
+```Sql
+DELETE FROM employee
+WHERE birthday = '2006-08-29'
+```
+
+```Sql
+DELETE FROM employee
+WHERE id>30
+```
